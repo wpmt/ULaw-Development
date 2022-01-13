@@ -1,8 +1,9 @@
 #Update
+***
 Using dynamic instead of interface for a change, unit test string update for consistency.  
 
 Would rework the process method completely with e text being in a cms or at the very least an set of email templates.
-
+***
 
 # The University of Law
 
